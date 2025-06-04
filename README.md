@@ -13,7 +13,7 @@ check_labels.py is the execution used to check the details of labeling of the da
 Running train_CLIP.py/train_dinov2.py/train_CLIP-Lora.py/train_dinov2-Lora.py will execute 20 runs in total: 5 runs for the 1-shot setting, 5 for the 2-shot setting, 5 for the 4-shot setting, and 5 for the 8-shot setting. The entire process will take approximately 30 to 60 minutes, depending on the number of images in the specified categories. At the end, the results will be saved in an Excel workbook named "data_collected_temp.xlsx" like below.
 ![image](https://github.com/user-attachments/assets/78c38690-206c-4e43-9721-5b82d4ae467a)
 
-The fields corresponds to below
+The fields' meaning corresponds to below
 ![image](https://github.com/user-attachments/assets/cf5638c1-4c02-4cbc-9c97-fc9f173d1b28)
 
 # Detail steps to reproduce the results
